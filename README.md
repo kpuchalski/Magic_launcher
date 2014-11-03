@@ -5,11 +5,17 @@ Magic Launcher is a simple Adobe Air aplication, that allows user to draw touch 
  
 ----------
 
+Installing
+-------------
+
+Before start puts assts folder into bin folder.
+
+----------
+
 User usage
 -------------
 
 Application have 2 options :
-
 
 #### Draw gesture
 
